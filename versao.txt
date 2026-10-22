@@ -1,4 +1,6 @@
-0.5.1
-Correção da fila: a partida encontrada não cai mais com "o adversário saiu" ou "não aceitou" sem motivo
-Depois de uma partida cancelada, a fila volta a procurar sozinha (não fica mais travada)
-A partida normal também encontra um adversário depois de 30 s sem ninguém na fila
+0.6
+Habilidades novas para Ingrid, Lin, Rafael, Zahra, Pietra e Dália: cada um ganhou uma mecânica própria
+Ingrid acumula Frio até congelar; Lin crava kunais que viram marcas; Rafael espalha Cargas que estouram
+Zahra deixa cacos no chão e usa um prisma; Pietra controla o calor do braço; Dália planta um jardim que cresce
+Efeitos das alquimias redesenhados em pixel art, com círculo de transmutação de cada personagem
+Correção da fila (0.5.1): a partida não cai mais sem motivo e a fila não trava
